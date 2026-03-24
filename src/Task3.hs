@@ -5,7 +5,7 @@ module Task3 where
 
 -- | Solves SAT problem for given boolean formula written in Reverse Polish Notation
 --
--- Returns whether given formula is satifiable
+-- Returns whether given formula is satisfiable
 -- wrapped into 'Maybe' with 'Nothing' indicating parsing failure.
 --
 -- Only following binary operations are allowed:
